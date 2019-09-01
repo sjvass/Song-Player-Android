@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Audio Controller</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="time">Time Remaining(secs):</string>
+    <string name="stopped">Not Playing</string>
+</resources>
